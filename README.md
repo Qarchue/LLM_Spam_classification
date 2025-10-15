@@ -2,15 +2,10 @@
 
 ## 簡介
 
-這是一個 LLM 垃圾信檢測模型的實作專案
-
+這是一個 LLM 垃圾信檢測模型的實作專案，可用於檢測一段英文句子是否是濫發的垃圾訊息。
 
 
 ---
-
-
-
-
 
 
 ## 展示
@@ -22,7 +17,23 @@
 ---
 
 
+## 使用教學
+
+1. 安裝 requirements.txt
+```
+pip install -r requirements.txt
+```
+
+2. 執行 main.py
+
+3. 待 main.py 執行結束後，執行 start.py
+
+
+---
+
 ## 專案資料夾結構
+
+跑完main.py 後的專案結構
 
 ```
 LLM_Spam_classification/

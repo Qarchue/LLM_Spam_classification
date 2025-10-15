@@ -15,7 +15,7 @@
 
 ## 展示
 
-[result_1]: https://raw.githubusercontent.com/Qarchue/LLM_Spam_classification/blob/main/images/result_1.png
+[result_1]: https://raw.githubusercontent.com/Qarchue/LLM_Spam_classification/master/images/result_1.png
 ![實作結果][result_1] 
 
 
